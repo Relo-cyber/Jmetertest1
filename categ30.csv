@@ -1,0 +1,1351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1629440909955,48224,HTTP Request,200,OK,Thread Group 1-18,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,5
+1629440909955,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,5
+1629440909965,48214,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48176,0,537
+1629440909510,48736,HTTP Request,200,OK,Thread Group 1-4,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,42,0,31
+1629440909510,45,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,42,0,31
+1629440909565,48681,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48628,0,938
+1629440958191,77,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440958191,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440958205,63,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440958258,82,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440958258,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440958263,77,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,56,0,0
+1629440909509,49016,HTTP Request,200,OK,Thread Group 1-1,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,46,0,45
+1629440909509,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,46,0,45
+1629440909564,48961,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48942,0,942
+1629440958273,269,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440958273,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440958275,267,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,243,0,0
+1629440909724,48871,HTTP Request,200,OK,Thread Group 1-11,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909724,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909726,48869,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48849,0,772
+1629440909949,48679,HTTP Request,200,OK,Thread Group 1-17,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909949,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909952,48676,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48657,0,557
+1629440958343,334,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958343,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958344,333,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,314,0,0
+1629440909511,49176,HTTP Request,200,OK,Thread Group 1-3,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,40,0,32
+1629440909511,43,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,40,0,32
+1629440909569,49118,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,49083,0,937
+1629440958529,179,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440958529,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440958535,173,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,152,0,0
+1629440958598,122,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440958598,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440958601,119,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,96,0,0
+1629440958632,110,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440958632,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440958634,108,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,79,0,0
+1629440958545,200,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958545,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958547,198,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,177,0,0
+1629440958691,80,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440958691,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440958704,67,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,45,0,0
+1629440958680,98,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958680,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958681,97,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440958723,67,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440958723,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440958725,65,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,45,0,0
+1629440958746,69,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440958746,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440958754,61,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,43,0,0
+1629440958751,88,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958751,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958755,84,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,53,0,0
+1629440910349,48489,HTTP Request,200,OK,Thread Group 1-30,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,1
+1629440910349,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,1
+1629440910351,48487,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48460,0,166
+1629440958784,89,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958784,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958785,88,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440958775,109,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958775,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958778,106,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,64,0,0
+1629440958711,204,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958711,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958713,202,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,156,0,0
+1629440958793,131,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958793,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958794,130,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,85,0,0
+1629440958875,44,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958875,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958876,43,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440958886,65,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440958886,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440958892,59,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440958818,151,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440958818,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440958831,138,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,64,0,0
+1629440910119,48896,HTTP Request,200,OK,Thread Group 1-23,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,1
+1629440910119,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,1
+1629440910121,48894,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48825,0,389
+1629440958847,190,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958847,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958853,184,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,84,0,0
+1629440958921,129,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958921,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958925,125,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,34,0,0
+1629440910217,48853,HTTP Request,200,OK,Thread Group 1-26,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440910217,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440910220,48850,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,48772,0,288
+1629440958961,113,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440958961,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440958962,112,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,27,0,0
+1629440958990,84,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440958990,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440959001,73,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440909509,49567,HTTP Request,200,OK,Thread Group 1-2,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,43,0,34
+1629440909509,46,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,43,0,34
+1629440909559,49517,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,49440,0,938
+1629440958844,214,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958844,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958848,210,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,125,0,0
+1629440958927,144,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440958927,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440958930,141,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,38,0,0
+1629440958934,133,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440958934,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440958938,129,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,45,0,0
+1629440959040,121,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959040,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440959055,106,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,31,0,0
+1629440959076,109,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959076,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440959085,100,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440959077,98,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959077,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959081,94,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440959083,132,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959083,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959086,129,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,36,0,0
+1629440959078,161,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959078,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959087,152,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,39,0,0
+1629440959073,172,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959073,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959075,170,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,41,0,0
+1629440959189,51,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959189,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959192,48,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440959060,188,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959060,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959069,179,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,35,0,0
+1629440959079,156,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959079,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959082,153,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,55,0,0
+1629440959054,189,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959054,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959059,184,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,52,0,0
+1629440959163,91,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959163,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959173,81,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440959084,171,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959084,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959085,170,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,28,0,0
+1629440959188,75,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,24,0,0
+1629440959188,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,24,0,0
+1629440959213,50,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,43,0,0
+1629440959253,35,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440959253,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440959254,34,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959226,59,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440959226,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,18,0,0
+1629440959244,41,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440959243,90,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959243,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440959250,83,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959271,43,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959271,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440959282,32,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959307,33,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959307,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959311,29,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440959250,92,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959250,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959257,85,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959247,96,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959247,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440959255,88,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440959290,56,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440959290,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440959291,55,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,24,0,0
+1629440959252,98,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959252,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959253,97,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959283,67,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959283,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959285,65,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440959259,102,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,30,0,0
+1629440959259,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,30,0,0
+1629440959289,72,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959342,43,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959342,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959346,39,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959345,39,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959345,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959348,36,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959345,36,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959345,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959350,31,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440959348,39,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959348,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959353,34,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959362,35,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959362,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959364,33,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440959352,57,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959352,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959357,52,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959352,51,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959352,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959353,50,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959336,78,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,24,0,0
+1629440959336,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,24,0,0
+1629440959360,54,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959398,36,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959398,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959399,35,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959397,43,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959397,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959400,40,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,27,0,0
+1629440959399,94,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959399,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959406,87,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,48,0,0
+1629440959393,104,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959393,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959402,95,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,41,0,0
+1629440959416,89,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959416,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959417,88,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,39,0,0
+1629440959402,80,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959402,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959404,78,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,44,0,0
+1629440959411,88,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959411,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959417,82,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,57,0,0
+1629440959436,66,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959436,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959438,64,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,22,0,0
+1629440909985,49532,HTTP Request,200,OK,Thread Group 1-19,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,3
+1629440909985,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,3
+1629440909989,49528,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,49519,0,507
+1629440959443,60,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959443,25,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,25,0,0
+1629440959469,34,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959412,98,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959412,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959416,94,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,40,0,0
+1629440959396,100,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959396,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440959404,92,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,42,0,0
+1629440959249,285,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959249,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959253,281,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440959500,50,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440959500,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,16,0,0
+1629440959516,34,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440959514,58,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959514,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959518,54,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,28,0,0
+1629440959518,75,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959518,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959519,74,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,34,0,0
+1629440959528,74,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959528,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959530,72,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440959516,85,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959516,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959519,82,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440959521,84,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959521,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959524,81,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,31,0,0
+1629440959511,79,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959511,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959517,73,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440959537,65,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959537,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959538,64,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959523,114,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959523,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959524,113,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,35,0,0
+1629440910253,49370,HTTP Request,200,OK,Thread Group 1-27,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440910253,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440910255,49368,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,49358,0,245
+1629440959558,76,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959558,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959560,74,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,31,0,0
+1629440959520,123,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440959520,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440959525,118,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,61,0,0
+1629440959599,58,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440959599,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440959612,45,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440959608,54,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959608,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959617,45,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440959648,58,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959648,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959651,55,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959628,79,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959628,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959630,77,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440959631,82,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959631,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440959646,67,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959646,54,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959646,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959651,49,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959652,50,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959652,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959655,47,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959648,78,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440959648,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440959658,68,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,43,0,0
+1629440959617,95,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440959617,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440959631,81,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959672,59,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959672,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959674,57,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,24,0,0
+1629440959641,77,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959641,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959644,74,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959679,60,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440959679,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,18,0,0
+1629440959697,42,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440959640,105,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959640,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959644,101,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440959726,25,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440959726,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440959726,25,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440959708,45,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959708,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440959720,33,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959715,39,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959715,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440959726,28,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959710,47,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959710,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959716,41,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959517,277,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959517,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959518,276,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440959722,79,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959722,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959725,76,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,69,0,0
+1629440959729,85,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959729,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959730,84,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,73,0,0
+1629440959733,119,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959733,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959742,110,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,67,0,0
+1629440959798,69,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959798,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959799,68,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440959728,142,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440959728,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440959741,129,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440959758,119,HTTP Request,200,OK,Thread Group 1-4,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959758,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959759,118,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,71,0,0
+1629440959735,112,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959735,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959741,106,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,68,0,0
+1629440959747,95,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959747,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959748,94,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440959757,127,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959757,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959758,126,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,61,0,0
+1629440909822,50068,HTTP Request,200,OK,Thread Group 1-14,text,true,,644601,286,30,30,https://test.bestviewsreviews.com:443/categories/,1,0,1
+1629440909822,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,1,0,1
+1629440909824,50066,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644245,145,30,30,https://test.bestviewsreviews.com:443/categories/,50047,0,675
+1629440959855,52,HTTP Request,200,OK,Thread Group 1-18,text,true,,644427,286,29,29,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959855,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,356,141,29,29,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959857,50,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,644071,145,29,29,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959755,100,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959755,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959758,97,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,58,0,0
+1629440959741,125,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,30,30,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959741,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,30,30,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959745,121,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,30,30,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440959755,137,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,29,29,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959755,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,29,29,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959758,134,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,29,29,https://test.bestviewsreviews.com:443/categories/,72,0,0
+1629440959803,121,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959803,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959812,112,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440959818,113,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440959818,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440959828,103,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440959870,29,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,29,29,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959870,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,29,29,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959874,25,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,29,29,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440959896,39,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959896,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440959905,30,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440959908,31,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440959908,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440959909,30,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959900,53,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959900,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440959908,45,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959902,26,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959902,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959906,22,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959872,72,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440959872,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,16,0,0
+1629440959889,55,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959923,43,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959923,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959927,39,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440959927,49,HTTP Request,200,OK,Thread Group 1-3,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959927,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440959935,41,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959935,51,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959935,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959938,48,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440959920,62,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959920,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440959927,55,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959922,44,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,28,28,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440959922,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,28,28,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440959931,35,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,28,28,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959981,40,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440959981,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440959984,37,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959955,43,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959955,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440959970,28,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959950,65,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440959950,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440959962,53,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959953,65,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440959953,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440959960,58,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440959959,94,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440959959,17,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,17,0,0
+1629440959977,76,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440959990,55,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440959990,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440959994,51,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440959956,78,HTTP Request,200,OK,Thread Group 1-11,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440959956,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440959971,63,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440959952,85,HTTP Request,200,OK,Thread Group 1-1,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959952,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440959961,76,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440909561,50487,HTTP Request,200,OK,Thread Group 1-6,text,true,,644601,286,27,27,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909561,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909564,50484,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644245,145,27,27,https://test.bestviewsreviews.com:443/categories/,50470,0,941
+1629440959991,66,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440959991,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440959993,64,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960025,30,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,27,27,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960025,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,27,27,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960030,25,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,27,27,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440959993,83,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,26,26,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440959993,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,26,26,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440960005,71,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,26,26,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960034,48,HTTP Request,200,OK,Thread Group 1-30,text,true,,644427,286,26,26,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960034,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,356,141,26,26,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440960043,39,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,644071,145,26,26,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960032,73,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440960032,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,18,0,0
+1629440960051,54,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,33,0,0
+1629440960033,65,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440960033,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,23,0,0
+1629440960056,42,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960083,30,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960083,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440960090,23,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960108,25,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960108,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960110,23,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960115,21,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960115,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960117,19,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960056,85,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,26,0,0
+1629440960056,26,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,26,0,0
+1629440960082,59,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960084,77,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960084,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440960090,71,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960083,81,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960083,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440960091,73,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440960083,87,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960083,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960085,85,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960083,63,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960083,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440960089,57,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440960141,53,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960141,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440960146,48,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,26,0,0
+1629440960135,66,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960135,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960140,61,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960113,75,HTTP Request,200,OK,Thread Group 1-17,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960163,46,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440960113,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440960163,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440960122,66,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960177,32,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960166,40,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960166,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440960175,31,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960143,65,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,24,24,https://test.bestviewsreviews.com:443/categories/,25,0,0
+1629440960143,25,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,24,24,http://test.bestviewsreviews.com/categories/,25,0,0
+1629440960169,39,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,24,24,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960211,25,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960211,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960213,23,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960171,72,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960171,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440960180,63,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960178,59,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960178,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960183,54,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960203,46,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960203,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440960212,37,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960213,40,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960213,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440960216,37,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960197,65,HTTP Request,200,OK,Thread Group 1-26,text,true,,644427,286,23,23,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960197,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,356,141,23,23,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440960204,58,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,644071,145,23,23,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960239,34,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,22,22,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960239,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,22,22,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960248,25,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,22,22,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960255,26,HTTP Request,200,OK,Thread Group 1-2,text,true,,644427,286,22,22,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440960223,58,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,22,22,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960255,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,356,141,22,22,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440960223,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,22,22,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960265,16,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,644071,145,22,22,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960229,52,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,22,22,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960245,68,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,21,21,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440960245,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,21,21,http://test.bestviewsreviews.com/categories/,19,0,0
+1629440960264,49,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,21,21,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960275,40,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,21,21,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960275,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,21,21,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960280,35,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,21,21,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960247,55,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,21,21,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440960247,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,21,21,http://test.bestviewsreviews.com/categories/,14,0,0
+1629440960261,41,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,21,21,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960252,68,HTTP Request,200,OK,Thread Group 1-23,text,true,,644427,286,21,21,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440960252,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,356,141,21,21,http://test.bestviewsreviews.com/categories/,20,0,0
+1629440960277,43,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,644071,145,21,21,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960283,40,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,21,21,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960283,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,21,21,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440960290,33,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,21,21,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960317,28,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440960317,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440960329,16,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960321,34,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960321,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440960328,27,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960315,36,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960315,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960320,31,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960343,14,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960343,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440960347,10,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960358,28,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960358,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960359,27,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960359,31,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960359,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960360,30,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960348,35,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440960348,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440960359,24,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960359,36,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960359,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960360,35,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440960398,32,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440960398,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440960399,31,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960396,37,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960396,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960398,35,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960392,35,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960400,23,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440960400,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440960400,23,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440960392,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440960399,28,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440960436,20,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960436,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960437,19,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960438,20,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440960438,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440960438,20,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440960435,18,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960435,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440960437,16,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960438,27,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960438,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960439,26,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440960459,25,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960459,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960460,24,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440960467,25,HTTP Request,200,OK,Thread Group 1-19,text,true,,644427,286,20,20,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960467,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,356,141,20,20,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960468,24,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,644071,145,20,20,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440960467,30,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,19,19,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960467,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,19,19,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960468,29,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,19,19,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960461,41,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,19,19,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440960461,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,19,19,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440960472,30,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,19,19,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440960486,17,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,19,19,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440960486,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,19,19,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440960491,12,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,19,19,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440960506,22,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,19,19,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960506,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,19,19,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960507,21,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,19,19,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440960500,23,HTTP Request,200,OK,Thread Group 1-27,text,true,,644427,286,19,19,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960500,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,356,141,19,19,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440960504,19,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,644071,145,19,19,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960515,21,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,18,18,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960515,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,18,18,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960517,19,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,18,18,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960530,15,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,18,18,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440960530,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,18,18,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440960534,11,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,18,18,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960539,26,HTTP Request,200,OK,Thread Group 1-14,text,true,,644427,286,18,18,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960539,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,356,141,18,18,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960540,25,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,644071,145,18,18,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440960554,16,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,17,17,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960554,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,17,17,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960555,15,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,17,17,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440960573,20,HTTP Request,200,OK,Thread Group 1-6,text,true,,644427,286,17,17,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440960573,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,356,141,17,17,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440960574,19,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,644071,145,17,17,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440909853,53772,HTTP Request,200,OK,Thread Group 1-15,text,true,,644601,286,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909853,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909856,53769,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644245,145,16,16,https://test.bestviewsreviews.com:443/categories/,53759,0,645
+1629440963628,13,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440963628,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440963630,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963644,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963644,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963645,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963659,13,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963659,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963660,12,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963675,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440963675,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440963676,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963690,13,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963690,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963691,12,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963706,14,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440963706,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440963707,13,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440963723,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963723,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963724,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440963738,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963738,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963739,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440963753,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963753,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963754,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440963768,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963768,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963769,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440963782,13,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963782,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963783,12,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963797,13,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963797,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963798,12,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963813,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440963813,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440963813,12,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440963827,12,HTTP Request,200,OK,Thread Group 1-15,text,true,,644427,286,16,16,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440963827,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,356,141,16,16,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440963828,11,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,644071,145,16,16,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440910183,53843,HTTP Request,200,OK,Thread Group 1-25,text,true,,644601,286,15,15,https://test.bestviewsreviews.com:443/categories/,5,0,1
+1629440910183,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,5,0,1
+1629440910189,53837,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644245,145,15,15,https://test.bestviewsreviews.com:443/categories/,53828,0,319
+1629440964029,105,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440964029,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440964031,103,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,94,0,0
+1629440964137,93,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440964137,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440964138,92,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,83,0,0
+1629440964233,80,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440964233,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440964234,79,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,70,0,0
+1629440964316,346,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440964316,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440964317,345,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,336,0,0
+1629440964665,68,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440964665,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440964666,67,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,58,0,0
+1629440964736,17,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440964736,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440964737,16,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440964756,425,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440964756,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440964757,424,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,416,0,0
+1629440965184,42,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965184,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965185,41,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440965229,98,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965229,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965231,96,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,88,0,0
+1629440965330,142,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440965330,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440965331,141,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,134,0,0
+1629440965475,39,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965475,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965476,38,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,31,0,0
+1629440909887,55659,HTTP Request,200,OK,Thread Group 1-16,text,true,,644601,286,15,15,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909887,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909890,55656,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644245,145,15,15,https://test.bestviewsreviews.com:443/categories/,55646,0,614
+1629440965517,64,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965517,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965518,63,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,56,0,0
+1629440965549,68,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965549,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965551,66,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,57,0,0
+1629440910090,55547,HTTP Request,200,OK,Thread Group 1-22,text,true,,644601,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440910090,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440910092,55545,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644245,145,15,15,https://test.bestviewsreviews.com:443/categories/,55536,0,412
+1629440965584,121,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965584,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965585,120,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,113,0,0
+1629440965620,95,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965620,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965621,94,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,85,0,0
+1629440965641,125,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965641,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965643,123,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,114,0,0
+1629440965709,165,HTTP Request,200,OK,Thread Group 1-25,text,true,,644427,286,15,15,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965709,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,356,141,15,15,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965710,164,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,644071,145,15,15,https://test.bestviewsreviews.com:443/categories/,159,0,0
+1629440965718,167,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440965718,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440965718,167,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,161,0,0
+1629440965773,123,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440965773,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440965773,123,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,114,0,0
+1629440965887,58,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965887,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965889,56,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,49,0,0
+1629440965898,66,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965898,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965899,65,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,58,0,0
+1629440965947,28,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440965947,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440965947,28,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440909626,56354,HTTP Request,200,OK,Thread Group 1-8,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909626,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909636,56344,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56337,0,864
+1629440965982,38,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965982,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965984,36,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,30,0,0
+1629440965977,84,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440965977,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440965978,83,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,77,0,0
+1629440966062,35,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966062,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966063,34,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,28,0,0
+1629440965966,145,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440965966,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440965969,142,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,135,0,0
+1629440966022,172,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966022,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966023,171,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,166,0,0
+1629440966113,117,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966113,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966114,116,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,102,0,0
+1629440966099,134,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966099,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966100,133,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,120,0,0
+1629440966196,41,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966196,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966197,40,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440966232,13,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966232,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440966235,10,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966234,24,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966234,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966236,22,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440910019,56252,HTTP Request,200,OK,Thread Group 1-20,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440910019,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440910022,56249,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56242,0,474
+1629440966238,44,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966238,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966240,42,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,36,0,0
+1629440966246,72,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966246,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966247,71,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,65,0,0
+1629440909657,56680,HTTP Request,200,OK,Thread Group 1-9,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909657,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909660,56677,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56670,0,838
+1629440966260,107,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966260,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966260,107,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,93,0,0
+1629440966320,51,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966320,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966321,50,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,38,0,0
+1629440966284,90,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966284,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966285,89,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440966273,155,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966273,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966276,152,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,146,0,0
+1629440966368,74,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966368,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966369,73,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440966339,123,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966339,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966341,121,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,115,0,0
+1629440910052,56420,HTTP Request,200,OK,Thread Group 1-21,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,21,0,20
+1629440910052,21,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,21,0,20
+1629440910074,56398,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56388,0,436
+1629440966376,104,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966376,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966377,103,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,94,0,0
+1629440909789,56706,HTTP Request,200,OK,Thread Group 1-13,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,11,0,7
+1629440909789,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,11,0,7
+1629440909801,56694,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56685,0,719
+1629440910316,56192,HTTP Request,200,OK,Thread Group 1-29,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440910316,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440910319,56189,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56178,0,188
+1629440966372,136,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966372,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966373,135,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,125,0,0
+1629440966429,91,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966429,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966430,90,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,82,0,0
+1629440966510,15,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966510,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440966513,12,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966482,49,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966482,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966482,49,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,44,0,0
+1629440966527,21,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966527,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966528,20,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966464,85,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966464,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966465,84,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,66,0,0
+1629440966474,77,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966474,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966476,75,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,59,0,0
+1629440966550,12,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966550,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440966553,9,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966564,10,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966564,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966564,10,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966443,137,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966443,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966444,136,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,128,0,0
+1629440966576,17,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966576,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966578,15,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440909757,56849,HTTP Request,200,OK,Thread Group 1-12,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,6,0,5
+1629440909757,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,6,0,5
+1629440909763,56843,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,56827,0,739
+1629440966510,83,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966510,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966510,83,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,71,0,0
+1629440966521,100,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966521,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966523,98,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,71,0,0
+1629440966595,25,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966595,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966597,23,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440966552,82,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966552,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966553,81,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,51,0,0
+1629440966533,107,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966533,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966538,102,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,82,0,0
+1629440966550,94,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966550,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966551,93,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,69,0,0
+1629440966496,135,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966496,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440966499,132,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,99,0,0
+1629440966608,40,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966608,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440966612,36,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440966626,26,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966626,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966627,25,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440966623,39,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966623,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440966628,34,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,22,0,0
+1629440966650,36,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966650,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966651,35,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966654,44,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966654,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966655,43,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440966617,54,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440966617,32,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,32,0,0
+1629440966649,22,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440966649,52,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440966649,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440966657,44,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,28,0,0
+1629440966647,65,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966647,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966649,63,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,40,0,0
+1629440966688,36,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440966688,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440966700,24,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966700,28,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966700,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966701,27,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440966700,30,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966700,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966701,29,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,22,0,0
+1629440966643,110,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440966643,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,14,0,0
+1629440966657,96,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,50,0,0
+1629440966667,94,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,33,0,0
+1629440966667,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,33,0,0
+1629440966700,61,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,50,0,0
+1629440966725,41,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966725,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966726,40,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440966636,132,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440966636,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,20,0,0
+1629440966656,112,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,92,0,0
+1629440966768,13,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966768,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966770,11,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966703,80,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966703,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966704,79,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,74,0,0
+1629440966784,15,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966784,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966785,14,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966718,86,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966718,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966719,85,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,71,0,0
+1629440966730,79,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440966730,20,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,20,0,0
+1629440966751,58,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,43,0,0
+1629440966758,59,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966758,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966759,58,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,47,0,0
+1629440966745,72,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966745,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966746,71,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,53,0,0
+1629440966582,258,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966582,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966584,256,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,40,0,0
+1629440966786,58,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966786,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966787,57,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,39,0,0
+1629440966763,69,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966763,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966765,67,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,45,0,0
+1629440966770,77,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966770,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966770,77,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,48,0,0
+1629440966812,41,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966812,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966814,39,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440909525,57322,HTTP Request,200,OK,Thread Group 1-5,text,true,,644601,286,14,14,https://test.bestviewsreviews.com:443/categories/,30,0,16
+1629440909525,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,30,0,16
+1629440909566,57281,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644245,145,14,14,https://test.bestviewsreviews.com:443/categories/,57274,0,933
+1629440966801,32,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440966801,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440966807,26,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440966819,51,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966819,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966821,49,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440966806,79,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440966806,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440966818,67,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,33,0,0
+1629440966845,44,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440966845,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440966849,40,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440966847,45,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966847,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966850,42,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440966856,37,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966856,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966858,35,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440966827,76,HTTP Request,200,OK,Thread Group 1-22,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,24,0,0
+1629440966827,24,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,24,0,0
+1629440966851,52,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,44,0,0
+1629440909594,57311,HTTP Request,200,OK,Thread Group 1-7,text,true,,644601,286,13,13,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440909594,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,13,13,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440909597,57308,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644245,145,13,13,https://test.bestviewsreviews.com:443/categories/,57260,0,910
+1629440966849,52,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,14,14,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966849,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,14,14,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966850,51,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,14,14,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440966862,57,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,13,13,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966862,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,13,13,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966864,55,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,13,13,https://test.bestviewsreviews.com:443/categories/,39,0,0
+1629440909692,57233,HTTP Request,200,OK,Thread Group 1-10,text,true,,644601,286,13,13,https://test.bestviewsreviews.com:443/categories/,1,0,1
+1629440909692,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,13,13,http://test.bestviewsreviews.com/categories/,1,0,1
+1629440909694,57231,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644245,145,13,13,https://test.bestviewsreviews.com:443/categories/,57207,0,811
+1629440966842,95,HTTP Request,200,OK,Thread Group 1-16,text,true,,644427,286,13,13,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966842,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,356,141,13,13,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966843,94,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,644071,145,13,13,https://test.bestviewsreviews.com:443/categories/,67,0,0
+1629440966894,52,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440966894,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440966900,46,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440966894,57,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440966894,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440966894,57,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,30,0,0
+1629440966887,68,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966887,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966888,67,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,32,0,0
+1629440966872,59,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,13,13,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440966872,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,13,13,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440966878,53,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,13,13,https://test.bestviewsreviews.com:443/categories/,37,0,0
+1629440966891,61,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440966891,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440966894,58,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,27,0,0
+1629440966864,95,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966864,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966866,93,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,50,0,0
+1629440966925,55,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440966925,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440966930,50,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440910283,56698,HTTP Request,200,OK,Thread Group 1-28,text,true,,644601,286,12,12,https://test.bestviewsreviews.com:443/categories/,2,0,1
+1629440910283,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,2,0,1
+1629440910285,56696,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644245,145,12,12,https://test.bestviewsreviews.com:443/categories/,56663,0,212
+1629440966950,49,HTTP Request,200,OK,Thread Group 1-29,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440966950,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440966955,44,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440966921,86,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440966921,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440966926,81,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440966958,55,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440966958,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440966968,45,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440966915,104,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440966915,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440966930,89,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440966961,60,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966961,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966964,57,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440966957,54,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,12,12,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966957,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,12,12,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966958,53,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,12,12,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440966928,95,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440966928,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440966930,93,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,36,0,0
+1629440966953,70,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440966953,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440966955,68,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440966973,76,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440966973,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440966978,71,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440966998,45,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440966998,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440967010,33,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967009,36,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967009,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967012,33,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440966983,77,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440966983,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440966993,67,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967027,33,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967027,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967029,31,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,21,0,0
+1629440967026,52,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967026,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440967034,44,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967065,22,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967065,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967066,21,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967057,38,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967057,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967058,37,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,17,0,0
+1629440967020,54,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967020,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440967028,46,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967062,39,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967062,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967068,33,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967054,52,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967054,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967056,50,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,20,0,0
+1629440967023,68,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967023,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440967028,63,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,33,0,0
+1629440967085,34,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967085,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440967092,27,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967097,32,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967097,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440967101,28,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967015,96,HTTP Request,200,OK,Thread Group 1-8,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440967015,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,14,0,0
+1629440967029,82,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,30,0,0
+1629440967093,33,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967093,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967104,22,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967031,109,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967031,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967037,103,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,50,0,0
+1629440967051,83,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967051,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440967064,70,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440967101,52,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967101,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440967112,41,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,28,0,0
+1629440967118,36,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967118,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,8,0,0
+1629440967126,28,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967103,32,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,11,11,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967103,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,11,11,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440967108,27,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,11,11,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440967113,38,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967113,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967116,35,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967143,27,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967143,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967146,24,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967131,48,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967131,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967133,46,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967155,31,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967155,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967158,28,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967157,26,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967157,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967161,22,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967173,37,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967173,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967174,36,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967163,37,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967163,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967169,31,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440967122,85,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,27,0,0
+1629440967122,27,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,27,0,0
+1629440967149,58,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967161,50,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967161,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967163,48,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967156,71,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440967156,23,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,23,0,0
+1629440967180,47,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967144,77,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,16,0,0
+1629440967144,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,16,0,0
+1629440967160,61,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967193,47,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,19,0,0
+1629440967193,19,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,19,0,0
+1629440967212,28,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967212,39,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967212,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440967224,27,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967202,58,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967202,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440967212,48,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967230,41,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967230,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440967242,29,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967203,32,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967203,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,5,0,0
+1629440967208,27,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967215,61,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967215,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440967228,48,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967246,32,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967246,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967248,30,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967230,56,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967230,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440967241,45,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967214,49,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967214,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967216,47,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967255,34,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967255,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967261,28,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967273,29,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967273,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440967282,20,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967267,50,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967267,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440967274,43,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967291,35,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967291,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967292,34,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440967270,57,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967270,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967276,51,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440967291,40,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967291,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967292,39,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,23,0,0
+1629440967303,29,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967303,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967304,28,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967274,76,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967274,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440967285,65,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967290,62,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967290,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967296,56,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,38,0,0
+1629440967321,35,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967321,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967323,33,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967327,35,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967327,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967328,34,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440910152,57235,HTTP Request,200,OK,Thread Group 1-24,text,true,,644601,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440910152,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440910154,57233,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644245,145,10,10,https://test.bestviewsreviews.com:443/categories/,57200,0,354
+1629440967338,45,HTTP Request,200,OK,Thread Group 1-13,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967338,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967341,42,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967280,109,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,13,0,0
+1629440967280,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,13,0,0
+1629440967293,96,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,41,0,0
+1629440967359,30,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967359,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967361,28,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967329,63,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,14,0,0
+1629440967329,14,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,14,0,0
+1629440967343,49,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967352,49,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,10,10,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967352,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,10,10,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967353,48,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,10,10,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967300,111,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,33,0,0
+1629440967300,33,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,33,0,0
+1629440967333,78,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967389,30,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967389,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967391,28,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967355,68,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967355,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440967367,56,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967365,52,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967365,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967371,46,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967392,36,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967392,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,12,0,0
+1629440967404,24,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967333,86,HTTP Request,200,OK,Thread Group 1-20,text,true,,644427,286,9,9,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440967333,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,356,141,9,9,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440967348,71,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,644071,145,9,9,https://test.bestviewsreviews.com:443/categories/,18,0,0
+1629440967390,69,HTTP Request,200,OK,Thread Group 1-9,text,true,,644427,286,8,8,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967390,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,356,141,8,8,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440967398,61,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,644071,145,8,8,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967421,39,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,8,8,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967421,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,8,8,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967424,36,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,8,8,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967402,46,HTTP Request,200,OK,Thread Group 1-21,text,true,,644427,286,8,8,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967402,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,356,141,8,8,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967408,40,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,644071,145,8,8,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967394,52,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,8,8,https://test.bestviewsreviews.com:443/categories/,11,0,0
+1629440967394,11,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,8,8,http://test.bestviewsreviews.com/categories/,11,0,0
+1629440967405,41,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,8,8,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967412,51,HTTP Request,200,OK,Thread Group 1-12,text,true,,644427,286,7,7,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967412,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,356,141,7,7,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440967421,42,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,644071,145,7,7,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967431,35,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967431,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967432,34,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967426,29,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,8,8,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967426,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,8,8,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967429,26,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,8,8,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967424,44,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,15,0,0
+1629440967424,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,15,0,0
+1629440967439,29,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967468,17,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967468,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967470,15,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967462,27,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967462,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440967469,20,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967464,31,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967464,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967468,27,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967469,28,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,10,0,0
+1629440967469,10,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,10,0,0
+1629440967479,18,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967487,24,HTTP Request,200,OK,Thread Group 1-10,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440967487,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440967487,24,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967491,23,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967491,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967478,29,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,5,5,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967478,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,5,5,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967479,28,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,5,5,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967493,21,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,8,0,0
+1629440967498,28,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967498,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,3,0,0
+1629440967501,25,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967500,29,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967500,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440967505,24,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967521,13,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967521,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967522,12,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967517,21,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967517,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,4,0,0
+1629440967521,17,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967536,18,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967536,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967537,17,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967531,26,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967531,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967533,24,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967532,21,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967532,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967533,20,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967555,10,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967555,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967556,9,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967540,28,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967540,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967542,26,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967563,21,HTTP Request,200,OK,Thread Group 1-5,text,true,,644427,286,4,4,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967563,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,356,141,4,4,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967566,18,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,644071,145,4,4,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967567,22,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,3,3,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967567,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,3,3,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967568,21,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,3,3,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967570,20,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,3,3,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967570,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,3,3,http://test.bestviewsreviews.com/categories/,2,0,0
+1629440967572,18,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,3,3,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967590,11,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,3,3,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967590,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,3,3,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967591,10,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,3,3,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967558,38,HTTP Request,200,OK,Thread Group 1-7,text,true,,644427,286,3,3,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967558,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,356,141,3,3,http://test.bestviewsreviews.com/categories/,6,0,0
+1629440967564,32,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,644071,145,3,3,https://test.bestviewsreviews.com:443/categories/,4,0,0
+1629440967592,22,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,2,2,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967592,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,2,2,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967593,21,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,2,2,https://test.bestviewsreviews.com:443/categories/,12,0,0
+1629440967603,18,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,2,2,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440967603,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,2,2,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440967603,18,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,2,2,https://test.bestviewsreviews.com:443/categories/,5,0,0
+1629440967616,20,HTTP Request,200,OK,Thread Group 1-28,text,true,,644427,286,2,2,https://test.bestviewsreviews.com:443/categories/,7,0,0
+1629440967616,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,356,141,2,2,http://test.bestviewsreviews.com/categories/,7,0,0
+1629440967623,13,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,644071,145,2,2,https://test.bestviewsreviews.com:443/categories/,3,0,0
+1629440967623,22,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,1,1,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440967623,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,1,1,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440967623,22,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,1,1,https://test.bestviewsreviews.com:443/categories/,6,0,0
+1629440967647,44,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,1,1,https://test.bestviewsreviews.com:443/categories/,9,0,0
+1629440967647,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,1,1,http://test.bestviewsreviews.com/categories/,9,0,0
+1629440967656,35,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,1,1,https://test.bestviewsreviews.com:443/categories/,29,0,0
+1629440967697,10,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,1,1,https://test.bestviewsreviews.com:443/categories/,1,0,0
+1629440967697,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,1,1,http://test.bestviewsreviews.com/categories/,1,0,0
+1629440967698,9,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,1,1,https://test.bestviewsreviews.com:443/categories/,2,0,0
+1629440967710,10,HTTP Request,200,OK,Thread Group 1-24,text,true,,644427,286,1,1,https://test.bestviewsreviews.com:443/categories/,0,0,0
+1629440967710,0,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,356,141,1,1,http://test.bestviewsreviews.com/categories/,0,0,0
+1629440967710,10,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,644071,145,1,1,https://test.bestviewsreviews.com:443/categories/,3,0,0

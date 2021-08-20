@@ -1,0 +1,1351 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1629442859590,4588,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,58,0,46
+1629442859590,66,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,58,0,46
+1629442859657,4521,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,4436,0,1047
+1629442860312,7036,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860312,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860314,7034,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7000,0,384
+1629442860116,7491,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,1
+1629442860116,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,1
+1629442860118,7489,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7430,0,586
+1629442860250,8696,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860250,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860253,8693,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8646,0,444
+1629442860216,8791,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,15,0,3
+1629442860216,16,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,15,0,3
+1629442860232,8775,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8732,0,469
+1629442859816,9985,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,0
+1629442859816,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,0
+1629442859818,9983,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9962,0,879
+1629442859716,12574,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859716,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859719,12571,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12550,0,992
+1629442859885,13122,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,1
+1629442859885,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,1
+1629442859887,13120,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13097,0,813
+1629442859914,13301,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859914,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859917,13298,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13276,0,790
+1629442860344,12894,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,0
+1629442860344,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,0
+1629442860346,12892,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12865,0,368
+1629442860017,13348,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,8,0,7
+1629442860017,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,8,0,7
+1629442860026,13339,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13317,0,686
+1629442859684,14613,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859684,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859687,14610,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14589,0,1023
+1629442859625,15209,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,21,0,11
+1629442859625,30,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,21,0,11
+1629442859656,15178,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,15156,0,1060
+1629442859999,15000,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,18,0,4
+1629442859999,18,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,18,0,4
+1629442860036,14963,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14944,0,666
+1629442860181,14900,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860181,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860184,14897,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14874,0,519
+1629442859591,15885,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,57,0,46
+1629442859591,68,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,57,0,46
+1629442859658,15818,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,15796,0,1043
+1629442859592,16068,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,57,0,45
+1629442859592,59,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,57,0,45
+1629442859652,16008,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,15979,0,1061
+1629442859592,16583,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,57,0,46
+1629442859592,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,57,0,46
+1629442859659,16516,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16497,0,1050
+1629442860047,16180,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,1
+1629442860047,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,1
+1629442860049,16178,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16157,0,660
+1629442860147,16112,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860147,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860149,16110,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16082,0,557
+1629442859783,16619,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859783,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859786,16616,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16591,0,912
+1629442864193,12223,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,0
+1629442864193,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,0
+1629442864194,12222,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12200,0,0
+1629442860282,16166,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860282,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860285,16163,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16141,0,431
+1629442859750,16725,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859750,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859752,16723,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16701,0,950
+1629442867611,9073,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442867611,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442867614,9070,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9050,0,0
+1629442860377,16365,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860377,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860379,16363,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16344,0,320
+1629442859948,16912,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859948,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859951,16909,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16899,0,756
+1629442860422,16462,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442860422,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442860425,16459,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,16444,0,288
+1629442867354,9557,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442867354,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442867357,9554,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9543,0,0
+1629442859653,17319,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442859653,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442859656,17316,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,17298,0,1050
+1629442859865,17260,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,7,0,6
+1629442859865,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,7,0,6
+1629442859874,17251,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,17234,0,839
+1629442859590,17657,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,58,0,46
+1629442859590,67,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,58,0,46
+1629442859657,17590,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,17578,0,1043
+1629442860083,17678,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442860083,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442860164,17597,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,17587,0,539
+1629442869805,9249,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442869805,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442869808,9246,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9080,0,0
+1629442869011,10289,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442869011,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442869014,10286,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10152,0,0
+1629442868954,10725,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442868954,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442868957,10722,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10574,0,0
+1629442872295,8163,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442872295,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442872297,8161,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7905,0,0
+1629442873012,7564,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442873012,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442873014,7562,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7273,0,0
+1629442873243,7432,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442873243,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442873245,7430,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7276,0,0
+1629442873220,8979,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,12,0,0
+1629442873220,12,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,12,0,0
+1629442873233,8966,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8954,0,0
+1629442875086,7550,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442875086,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442875089,7547,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7538,0,0
+1629442873369,9354,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442873369,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442873372,9351,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9340,0,0
+1629442875004,7767,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442875004,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442875007,7764,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7754,0,0
+1629442874301,9391,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442874301,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442874304,9388,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9379,0,0
+1629442877251,7073,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442877251,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442877253,7071,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7063,0,0
+1629442875480,8996,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442875480,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442875482,8994,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8985,0,0
+1629442874839,9741,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442874839,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442874843,9737,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9729,0,0
+1629442876178,10052,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442876178,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442876181,10049,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10037,0,0
+1629442876478,10571,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442876478,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442876481,10568,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10551,0,0
+1629442876262,11854,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876262,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876265,11851,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11842,0,0
+1629442879681,9349,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442879681,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442879683,9347,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9339,0,0
+1629442876863,12362,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876863,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876865,12360,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12345,0,0
+1629442876686,12813,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876686,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876688,12811,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12803,0,0
+1629442877765,11742,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442877765,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442877768,11739,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11730,0,0
+1629442876913,12599,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876913,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876915,12597,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12589,0,0
+1629442876887,12862,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876887,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876889,12860,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12851,0,0
+1629442879302,10623,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442879302,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442879305,10620,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10612,0,0
+1629442876421,13585,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876421,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876423,13583,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13575,0,0
+1629442876405,13601,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442876405,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442876408,13598,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13576,0,0
+1629442879056,11042,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442879056,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442879059,11039,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11033,0,0
+1629442877129,13012,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442877129,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442877131,13010,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13004,0,0
+1629442876230,13924,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,0
+1629442876230,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,0
+1629442876234,13920,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13912,0,0
+1629442876451,13876,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876451,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876453,13874,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13866,0,0
+1629442875664,14742,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442875664,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442875666,14740,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14728,0,0
+1629442876975,13593,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876975,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876977,13591,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13582,0,0
+1629442876745,13986,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442876745,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442876748,13983,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13975,0,0
+1629442880677,10190,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442880677,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442880679,10188,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10181,0,0
+1629442880579,11017,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442880579,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442880583,11013,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10986,0,0
+1629442882201,10050,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442882201,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442882204,10047,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10036,0,0
+1629442882638,9747,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442882638,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442882641,9744,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9722,0,0
+1629442884327,8242,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442884327,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442884329,8240,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8198,0,0
+1629442880460,12416,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442880460,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442880463,12413,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12337,0,0
+1629442884581,9301,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442884581,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442884584,9298,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9282,0,0
+1629442884479,9439,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442884479,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442884481,9437,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9428,0,0
+1629442882775,11183,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442882775,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442882778,11180,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11171,0,0
+1629442882725,11363,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442882725,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442882728,11360,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11352,0,0
+1629442889226,5363,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442889226,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442889228,5361,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,5343,0,0
+1629442887051,7640,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442887051,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442887053,7638,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7620,0,0
+1629442886231,8710,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442886231,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442886234,8707,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8696,0,0
+1629442883693,11608,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442883693,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442883696,11605,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11598,0,0
+1629442888118,11248,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442888118,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442888121,11245,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11238,0,0
+1629442889514,10758,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,1,0,0
+1629442889514,1,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,1,0,0
+1629442889516,10756,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10748,0,0
+1629442889751,10643,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442889751,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442889754,10640,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10633,0,0
+1629442889927,10486,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442889927,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442889929,10484,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10478,0,0
+1629442889032,11504,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442889032,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442889035,11501,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11494,0,0
+1629442890008,10601,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442890008,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442890011,10598,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10592,0,0
+1629442889501,11833,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,13,0,0
+1629442889501,13,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,13,0,0
+1629442889514,11820,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11812,0,0
+1629442892573,8913,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442892573,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442892575,8911,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8904,0,0
+1629442890156,11376,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442890156,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442890159,11373,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11365,0,0
+1629442890100,11606,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890100,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890102,11604,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11597,0,0
+1629442890143,11698,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890143,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890146,11695,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11689,0,0
+1629442889509,12367,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,6,0,0
+1629442889509,6,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,6,0,0
+1629442889516,12360,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12347,0,0
+1629442890329,11582,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890329,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890331,11580,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11570,0,0
+1629442892254,9792,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442892254,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442892258,9788,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9779,0,0
+1629442890409,11721,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890409,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890411,11719,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11710,0,0
+1629442891599,10845,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442891599,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442891601,10843,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10833,0,0
+1629442894090,8847,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442894090,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442894092,8845,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8829,0,0
+1629442894592,8350,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442894592,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442894595,8347,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8324,0,0
+1629442890570,12516,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890570,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890573,12513,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12502,0,0
+1629442890733,12408,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890733,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890735,12406,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12389,0,0
+1629442890009,13313,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442890009,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442890011,13311,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13301,0,0
+1629442890869,12475,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442890869,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442890872,12472,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12459,0,0
+1629442892388,11008,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442892388,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442892390,11006,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10995,0,0
+1629442893920,9509,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442893920,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442893922,9507,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9490,0,0
+1629442893885,9690,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442893885,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442893887,9688,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9673,0,0
+1629442892878,10794,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442892878,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442892880,10792,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10781,0,0
+1629442893968,10407,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442893968,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442893971,10404,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10394,0,0
+1629442894694,10220,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442894694,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442894696,10218,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10207,0,0
+1629442894944,9981,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442894944,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442894946,9979,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9966,0,0
+1629442895303,9701,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442895303,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442895305,9699,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9683,0,0
+1629442899369,9649,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442899369,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442899371,9647,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9638,0,0
+1629442900415,9394,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442900415,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442900417,9392,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9384,0,0
+1629442900540,10356,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442900540,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442900542,10354,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10344,0,0
+1629442900275,10814,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442900275,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442900277,10812,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10802,0,0
+1629442901337,10012,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901337,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901340,10009,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9999,0,0
+1629442901489,10239,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901489,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901491,10237,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10227,0,0
+1629442902940,8927,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442902940,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442902943,8924,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8914,0,0
+1629442901534,10367,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901534,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901536,10365,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10356,0,0
+1629442900396,11595,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442900396,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442900398,11593,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11583,0,0
+1629442902447,9663,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442902447,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442902449,9661,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9650,0,0
+1629442901845,10348,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901845,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901847,10346,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10338,0,0
+1629442901914,10455,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901914,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901916,10453,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10432,0,0
+1629442902049,10364,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442902049,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442902051,10362,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10338,0,0
+1629442900611,12072,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442900611,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442900613,12070,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12059,0,0
+1629442903578,9534,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903578,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903580,9532,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9524,0,0
+1629442902134,11267,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442902134,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442902136,11265,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11255,0,0
+1629442901880,11579,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442901880,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442901883,11576,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11568,0,0
+1629442905008,9674,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442905008,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442905010,9672,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9658,0,0
+1629442902945,11874,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442902945,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442902947,11872,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11861,0,0
+1629442903399,11421,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903399,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903402,11418,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11406,0,0
+1629442903089,11976,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903089,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903092,11973,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11963,0,0
+1629442904928,10460,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442904928,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442904931,10457,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10451,0,0
+1629442903144,12393,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903144,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903146,12391,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12385,0,0
+1629442904378,11235,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442904378,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442904380,11233,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11226,0,0
+1629442903675,12062,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903675,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903677,12060,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12053,0,0
+1629442901708,14278,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442901708,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442901710,14276,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14270,0,0
+1629442903432,12598,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903432,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903434,12596,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12589,0,0
+1629442903326,12796,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903326,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903328,12794,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12787,0,0
+1629442904918,11222,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442904918,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442904920,11220,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11213,0,0
+1629442903347,12999,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442903347,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442903349,12997,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12989,0,0
+1629442911870,8605,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442911870,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442911872,8603,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8596,0,0
+1629442909812,10695,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442909812,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442909815,10692,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10683,0,0
+1629442911731,9120,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442911731,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442911733,9118,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9106,0,0
+1629442911092,10004,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442911092,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442911095,10001,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9990,0,0
+1629442911352,9873,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442911352,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442911354,9871,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9863,0,0
+1629442911994,9299,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442911994,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442911996,9297,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9291,0,0
+1629442912113,9381,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442912113,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442912115,9379,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9371,0,0
+1629442911904,9673,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442911904,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442911906,9671,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9661,0,0
+1629442912196,9434,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442912196,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442912198,9432,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9422,0,0
+1629442909022,13000,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442909022,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442909024,12998,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12990,0,0
+1629442910900,12153,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442910900,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442910902,12151,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12143,0,0
+1629442913114,10493,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442913114,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442913117,10490,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10482,0,0
+1629442915389,9474,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442915389,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442915392,9471,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9394,0,0
+1629442912415,12629,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442912415,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442912417,12627,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12560,0,0
+1629442915538,9579,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442915538,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442915541,9576,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9522,0,0
+1629442912371,12796,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442912371,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442912374,12793,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12718,0,0
+1629442913461,11778,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442913461,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442913463,11776,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11717,0,0
+1629442913403,12014,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442913403,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442913405,12012,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11973,0,0
+1629442920508,5105,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,9,0,8
+1629442920508,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,9,0,8
+1629442920517,5096,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,5077,0,18
+1629442914821,10837,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442914821,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442914823,10835,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10823,0,0
+1629442912685,13024,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442912685,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442912687,13022,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13012,0,0
+1629442916032,9982,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442916032,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442916034,9980,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9969,0,0
+1629442914683,11948,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442914683,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442914685,11946,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11934,0,0
+1629442915738,11120,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442915738,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442915741,11117,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11103,0,0
+1629442921227,5749,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442921227,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442921230,5746,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,5726,0,15
+1629442921579,5643,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442921579,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442921582,5640,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,5620,0,16
+1629442916124,11119,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442916124,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442916126,11117,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11098,0,0
+1629442915066,12291,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442915066,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442915069,12288,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12277,0,0
+1629442916142,11464,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442916142,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442916144,11462,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11441,0,0
+1629442914820,13128,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442914820,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442914822,13126,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13110,0,0
+1629442915987,12134,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442915987,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442915990,12131,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12117,0,0
+1629442915615,12662,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442915615,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442915617,12660,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12647,0,0
+1629442916347,12261,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442916347,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442916349,12259,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12251,0,0
+1629442923055,5958,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,3
+1629442923055,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,3
+1629442923059,5954,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,5928,0,13
+1629442921295,10552,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442921295,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442921298,10549,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10523,0,21
+1629442925047,7356,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442925047,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442925049,7354,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7337,0,15
+1629442920854,12484,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442920854,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442920856,12482,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12459,0,17
+1629442925419,7959,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442925419,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442925422,7956,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7934,0,13
+1629442921496,13000,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442921496,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442921499,12997,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12980,0,18
+1629442922024,12730,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442922024,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442922027,12727,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12711,0,16
+1629442925120,9735,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442925120,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442925123,9732,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9715,0,14
+1629442920479,14377,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,14,0,13
+1629442920479,15,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,14,0,13
+1629442920494,14362,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14344,0,24
+1629442921098,13954,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442921098,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442921101,13951,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13933,0,16
+1629442923610,11445,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442923610,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442923612,11443,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11423,0,15
+1629442921632,13622,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442921632,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442921635,13619,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13596,0,13
+1629442925241,10233,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442925241,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442925244,10230,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10209,0,15
+1629442925711,9968,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442925711,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442925713,9966,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9947,0,13
+1629442927951,8054,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,2
+1629442927951,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,2
+1629442927955,8050,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8032,0,14
+1629442926978,9049,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442926978,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442926981,9046,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9026,0,0
+1629442925169,10942,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442925169,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442925172,10939,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10922,0,13
+1629442925615,11184,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442925615,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442925618,11181,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11169,0,0
+1629442927224,9639,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442927224,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442927227,9636,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9619,0,0
+1629442926017,10938,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442926017,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442926020,10935,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10913,0,15
+1629442924866,12921,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442924866,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442924869,12918,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12900,0,13
+1629442925661,12193,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442925661,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442925664,12190,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12171,0,13
+1629442927610,10285,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,8,0,7
+1629442927610,8,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,8,0,7
+1629442927618,10277,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10243,0,14
+1629442926861,11043,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442926861,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442926864,11040,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11002,0,15
+1629442928280,9689,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442928280,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442928283,9686,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9659,0,17
+1629442929016,9044,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442929016,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442929018,9042,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9015,0,0
+1629442927361,11030,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442927361,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442927363,11028,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11006,0,14
+1629442928124,10425,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442928124,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442928127,10422,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10403,0,15
+1629442926635,12567,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,2
+1629442926635,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,2
+1629442926639,12563,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12544,0,14
+1629442928610,10857,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442928610,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442928613,10854,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10834,0,13
+1629442927246,12742,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442927246,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442927249,12739,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12723,0,13
+1629442932406,8603,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442932406,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442932409,8600,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8588,0,0
+1629442931850,12046,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,7,0,0
+1629442931850,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,7,0,0
+1629442931857,12039,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12030,0,0
+1629442933381,11118,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442933381,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442933384,11115,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11103,0,0
+1629442933341,11421,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442933341,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442933344,11418,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11406,0,0
+1629442935058,10723,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442935058,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442935060,10721,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10670,0,0
+1629442934859,11268,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442934859,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442934861,11266,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11254,0,0
+1629442935257,10893,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442935257,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442935260,10890,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10874,0,0
+1629442934499,11792,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442934499,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442934502,11789,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11778,0,0
+1629442934757,11680,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442934757,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442934760,11677,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11667,0,0
+1629442936008,11286,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442936008,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442936011,11283,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11272,0,0
+1629442937857,9621,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442937857,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442937859,9619,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9609,0,0
+1629442937791,9838,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442937791,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442937793,9836,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9822,0,0
+1629442935477,12200,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442935477,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442935480,12197,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12184,0,0
+1629442936802,10922,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442936802,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442936805,10919,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10899,0,0
+1629442935056,12673,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442935056,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442935059,12670,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12653,0,0
+1629442936115,11615,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442936115,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442936117,11613,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11592,0,0
+1629442936035,11726,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442936035,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442936037,11724,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11717,0,0
+1629442935682,12108,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442935682,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442935685,12105,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12095,0,0
+1629442936866,10969,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442936866,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442936868,10967,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10959,0,0
+1629442938063,9798,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442938063,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442938066,9795,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9785,0,0
+1629442937898,10154,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442937898,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442937901,10151,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10138,0,0
+1629442937907,10149,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442937907,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442937909,10147,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10135,0,0
+1629442934859,13231,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442934859,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442934861,13229,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13218,0,0
+1629442937972,10201,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442937972,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442937974,10199,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10187,0,0
+1629442938552,9637,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442938552,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442938556,9633,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9620,0,0
+1629442938394,9831,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442938394,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442938397,9828,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9818,0,0
+1629442936958,11719,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442936958,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442936961,11716,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11704,0,0
+1629442939206,9676,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442939206,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442939208,9674,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9663,0,0
+1629442941012,9354,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442941012,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442941014,9352,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9337,0,0
+1629442939470,11396,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442939470,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442939473,11393,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11377,0,0
+1629442939990,12563,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442939990,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442939993,12560,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12548,0,0
+1629442945783,8465,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442945783,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442945786,8462,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8454,0,0
+1629442943898,10394,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442943898,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442943901,10391,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10384,0,0
+1629442944501,10576,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442944501,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442944504,10573,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10562,0,0
+1629442944765,10967,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442944765,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442944767,10965,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10957,0,0
+1629442947862,8635,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947862,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947865,8632,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8622,0,0
+1629442946293,10333,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442946293,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442946295,10331,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10322,0,0
+1629442947631,9090,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442947631,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442947633,9088,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9076,0,0
+1629442947480,9289,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947480,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947483,9286,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9276,0,0
+1629442946129,11082,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442946129,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442946132,11079,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11065,0,0
+1629442946152,11623,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442946152,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442946155,11620,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11608,0,0
+1629442946439,11471,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442946439,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442946441,11469,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11459,0,0
+1629442947732,10841,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442947732,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442947734,10839,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10826,0,0
+1629442948227,10457,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442948227,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442948230,10454,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10445,0,0
+1629442948175,10756,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442948175,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442948177,10754,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10747,0,0
+1629442948054,10884,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,5,0,0
+1629442948054,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,5,0,0
+1629442948059,10879,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10871,0,0
+1629442947679,11292,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442947679,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442947681,11290,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11280,0,0
+1629442947725,11324,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947725,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947728,11321,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11313,0,0
+1629442948191,10929,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442948191,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442948194,10926,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10916,0,0
+1629442948679,10536,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442948679,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442948682,10533,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10520,0,0
+1629442947296,11932,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947296,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947299,11929,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11917,0,0
+1629442948092,11158,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442948092,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442948095,11155,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11144,0,0
+1629442947732,11631,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442947732,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442947734,11629,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11595,0,0
+1629442950370,9057,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442950370,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442950373,9054,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9046,0,0
+1629442947836,11823,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947836,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947839,11820,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11814,0,0
+1629442947792,11944,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442947792,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442947794,11942,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11928,0,0
+1629442947763,11988,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442947763,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442947766,11985,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11975,0,0
+1629442948058,12302,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442948058,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442948061,12299,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12289,0,0
+1629442950868,10235,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442950868,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442950871,10232,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10197,0,0
+1629442948892,12289,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442948892,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442948895,12286,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12253,0,0
+1629442952556,9658,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442952556,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442952559,9655,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9633,0,0
+1629442955080,7452,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442955080,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442955083,7449,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7433,0,0
+1629442956499,6320,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442956499,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442956501,6318,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,6298,0,0
+1629442954250,8814,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442954250,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442954253,8811,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8785,0,0
+1629442955734,8537,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442955734,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442955737,8534,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8526,0,0
+1629442954296,10145,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442954296,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442954298,10143,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10137,0,0
+1629442957213,8642,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442957213,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442957216,8639,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8627,0,0
+1629442956628,9979,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442956628,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442956631,9976,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9967,0,0
+1629442956723,9936,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442956723,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442956725,9934,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9924,0,0
+1629442957777,9689,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442957777,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442957780,9686,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9677,0,0
+1629442956771,12472,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442956771,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442956774,12469,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12460,0,0
+1629442957912,11694,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442957912,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442957915,11691,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11684,0,0
+1629442959365,11323,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959365,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959368,11320,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11313,0,0
+1629442958940,11779,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442958940,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442958943,11776,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11769,0,0
+1629442959661,11075,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959661,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959664,11072,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11065,0,0
+1629442959051,11776,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442959051,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442959053,11774,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11768,0,0
+1629442959738,11257,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959738,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959741,11254,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11246,0,0
+1629442958973,12057,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442958973,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442958976,12054,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12045,0,0
+1629442959230,11823,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959230,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959233,11820,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11810,0,0
+1629442960362,10877,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442960362,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442960364,10875,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10866,0,0
+1629442958933,12381,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442958933,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442958936,12378,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12369,0,0
+1629442959219,12128,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,0
+1629442959219,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,0
+1629442959223,12124,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12113,0,0
+1629442961105,10312,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442961105,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442961108,10309,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10301,0,0
+1629442959252,12672,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959252,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959255,12669,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12661,0,0
+1629442962215,9764,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,0
+1629442962215,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,0
+1629442962219,9760,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9750,0,0
+1629442962821,9466,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442962821,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442962824,9463,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9455,0,0
+1629442959429,12934,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442959429,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442959431,12932,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12926,0,0
+1629442959122,13412,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959122,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959125,13409,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13393,0,0
+1629442961183,11422,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442961183,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442961185,11420,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11408,0,0
+1629442959753,12967,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442959753,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442959756,12964,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12955,0,0
+1629442962534,10254,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442962534,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442962536,10252,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10242,0,0
+1629442958686,14150,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442958686,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442958688,14148,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14136,0,0
+1629442963066,9776,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442963066,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442963069,9773,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9757,0,0
+1629442958587,14294,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442958587,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442958590,14291,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14278,0,0
+1629442964273,9740,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442964273,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442964276,9737,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9721,0,0
+1629442965856,8473,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442965856,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442965859,8470,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8453,0,0
+1629442964443,10660,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442964443,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442964445,10658,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10634,0,0
+1629442967467,8419,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442967467,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442967470,8416,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8403,0,0
+1629442970829,7240,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442970829,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442970831,7238,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,7232,0,0
+1629442969244,9630,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442969244,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442969246,9628,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9621,0,0
+1629442966608,12665,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442966608,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442966611,12662,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12654,0,0
+1629442966660,12779,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442966660,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442966662,12777,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12761,0,0
+1629442970738,9788,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442970738,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442970740,9786,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9779,0,0
+1629442969608,11339,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442969608,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442969610,11337,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11321,0,0
+1629442972289,9210,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972289,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972292,9207,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9198,0,0
+1629442972365,9323,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972365,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972368,9320,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9313,0,0
+1629442971349,10562,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442971349,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971352,10559,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10549,0,0
+1629442971055,10968,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442971055,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442971057,10966,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10956,0,0
+1629442972790,9401,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442972790,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442972792,9399,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9392,0,0
+1629442971981,10289,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442971981,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442971983,10287,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10277,0,0
+1629442972843,9869,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972843,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972846,9866,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9855,0,0
+1629442974332,8443,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442974332,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442974335,8440,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8427,0,0
+1629442972722,10482,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972722,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972725,10479,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10470,0,0
+1629442971241,12054,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442971241,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971244,12051,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12040,0,0
+1629442971419,11888,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442971419,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971422,11885,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11873,0,0
+1629442974015,9369,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442974015,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442974018,9366,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9357,0,0
+1629442971032,12391,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442971032,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442971035,12388,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12376,0,0
+1629442970721,12800,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442970721,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442970724,12797,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12785,0,0
+1629442970997,12534,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442970997,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971000,12531,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12521,0,0
+1629442971316,12276,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442971316,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971319,12273,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12265,0,0
+1629442971926,12079,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442971926,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442971929,12076,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12058,0,0
+1629442972838,11275,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972838,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972841,11272,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11265,0,0
+1629442972536,12059,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972536,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972539,12056,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12046,0,0
+1629442972883,11859,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972883,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972886,11856,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11823,0,0
+1629442975105,9797,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442975105,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442975107,9795,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9785,0,0
+1629442975889,9177,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442975889,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442975892,9174,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9163,0,0
+1629442970690,14521,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442970690,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442970692,14519,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,14494,0,0
+1629442972607,12630,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442972607,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442972610,12627,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12595,0,0
+1629442978072,9499,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442978072,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442978074,9497,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9487,0,0
+1629442978877,10671,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442978877,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442978879,10669,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10664,0,0
+1629442979276,10594,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442979276,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442979279,10591,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10582,0,0
+1629442982025,8743,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442982025,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442982028,8740,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8730,0,0
+1629442979443,11359,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442979443,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442979445,11357,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11347,0,0
+1629442981913,9238,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442981913,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442981916,9235,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9227,0,0
+1629442982193,9328,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442982193,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442982196,9325,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9317,0,0
+1629442982272,9311,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,5,0,0
+1629442982272,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,5,0,0
+1629442982277,9306,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9300,0,0
+1629442982715,9069,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442982715,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442982717,9067,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9058,0,0
+1629442980529,11462,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442980529,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442980532,11459,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11450,0,0
+1629442981501,10496,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442981501,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442981504,10493,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10483,0,0
+1629442983309,9748,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442983309,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442983311,9746,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9737,0,0
+1629442980949,12127,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442980949,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442980952,12124,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12116,0,0
+1629442982777,10411,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442982777,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442982780,10408,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10399,0,0
+1629442984115,9184,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442984115,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442984118,9181,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9175,0,0
+1629442984007,10016,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442984007,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442984010,10013,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9997,0,12
+1629442985213,8843,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442985213,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442985216,8840,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8821,0,17
+1629442984744,9677,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442984744,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442984747,9674,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9650,0,15
+1629442984597,9967,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442984597,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442984599,9965,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9958,0,0
+1629442983533,11192,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442983533,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442983535,11190,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11181,0,0
+1629442983524,11644,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442983524,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442983526,11642,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11634,0,0
+1629442983387,12209,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442983387,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442983390,12206,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12188,0,13
+1629442983297,12316,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,7,0,0
+1629442983297,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,7,0,0
+1629442983304,12309,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12298,0,0
+1629442983206,12414,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,7,0,6
+1629442983206,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,7,0,6
+1629442983213,12407,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12390,0,15
+1629442981690,13965,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442981690,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442981692,13963,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,13957,0,0
+1629442983594,12200,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442983594,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442983596,12198,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12190,0,0
+1629442987572,8315,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442987572,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442987575,8312,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8296,0,12
+1629442985239,11084,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442985239,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442985241,11082,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11070,0,0
+1629442983425,12995,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442983425,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442983427,12993,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12983,0,0
+1629442984904,11776,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,4,0,1
+1629442984904,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,4,0,1
+1629442984908,11772,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11755,0,12
+1629442985068,12214,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442985068,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442985070,12212,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12196,0,12
+1629442989870,10901,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442989870,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442989873,10898,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10880,0,12
+1629442991584,9328,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442991584,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442991587,9325,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,9309,0,16
+1629442991152,10875,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442991152,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442991155,10872,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10856,0,12
+1629442993189,8896,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442993189,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442993191,8894,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,8879,0,12
+1629442991784,10358,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442991784,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442991787,10355,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10336,0,11
+1629442989549,12598,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442989549,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442989552,12595,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,12582,0,12
+1629442990803,11597,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442990803,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442990805,11595,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,11579,0,12
+1629442991998,10561,HTTP Request,200,OK,Thread Group 1-25,text,true,,689548,272,30,30,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442991998,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-25,text,true,,349,134,30,30,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442992001,10558,HTTP Request-1,200,OK,Thread Group 1-25,text,true,,689199,138,30,30,https://test.bestviewsreviews.com:443/tvs/,10543,0,15
+1629442991522,11105,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442991522,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442991525,11102,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,11082,0,12
+1629442990769,12268,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442990769,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442990772,12265,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,12248,0,12
+1629442991992,11846,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442991992,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442991995,11843,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,11821,0,21
+1629442994024,10218,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442994024,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442994027,10215,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,10204,0,0
+1629442993077,11577,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,5,0,4
+1629442993077,5,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,5,0,4
+1629442993082,11572,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,11538,0,12
+1629442995622,9097,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442995622,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442995625,9094,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,9079,0,0
+1629442994566,10177,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442994566,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442994568,10175,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,10150,0,12
+1629442994057,10704,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,4,0,0
+1629442994057,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,4,0,0
+1629442994061,10700,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,10687,0,0
+1629442994727,10450,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,3,0,2
+1629442994727,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,3,0,2
+1629442994730,10447,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,10428,0,12
+1629442995657,9831,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442995657,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442995660,9828,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,9811,0,11
+1629442995617,9920,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,4,0,2
+1629442995617,4,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,4,0,2
+1629442995621,9916,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,9899,0,14
+1629442995889,9859,HTTP Request,200,OK,Thread Group 1-24,text,true,,689548,272,29,29,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442995889,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-24,text,true,,349,134,29,29,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442995891,9857,HTTP Request-1,200,OK,Thread Group 1-24,text,true,,689199,138,29,29,https://test.bestviewsreviews.com:443/tvs/,9843,0,0
+1629442995599,10299,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442995599,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442995606,10292,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,10277,0,0
+1629442994422,12064,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442994422,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442994425,12061,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,12050,0,0
+1629442996325,10373,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442996325,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442996328,10370,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,10350,0,11
+1629442993058,13839,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442993058,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442993060,13837,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,13819,0,14
+1629442993300,13860,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,1
+1629442993300,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,1
+1629442993303,13857,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,13844,0,13
+1629442995170,12831,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442995170,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442995173,12828,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,12811,0,12
+1629442995796,12406,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442995796,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442995798,12404,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,12387,0,12
+1629442996681,11556,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629442996681,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629442996684,11553,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,11543,0,0
+1629442996422,11875,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,1
+1629442996422,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,1
+1629442996424,11873,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,11854,0,13
+1629442997284,12476,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629442997284,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629442997287,12473,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,12460,0,0
+1629443002088,9070,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443002088,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443002091,9067,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,9056,0,0
+1629443002145,9078,HTTP Request,200,OK,Thread Group 1-6,text,true,,689548,272,28,28,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443002145,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-6,text,true,,349,134,28,28,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443002148,9075,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,689199,138,28,28,https://test.bestviewsreviews.com:443/tvs/,9065,0,0
+1629443002150,9125,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,8,0,0
+1629443002150,9,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,8,0,0
+1629443002159,9116,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,9107,0,0
+1629443002636,8832,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443002636,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443002639,8829,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,8812,0,0
+1629443000774,10746,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443000774,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443000777,10743,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,10724,0,0
+1629443003840,8113,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443003840,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443003843,8110,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,8099,0,0
+1629443002402,10073,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443002402,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443002405,10070,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,10060,0,0
+1629443000914,11574,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443000914,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443000917,11571,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,11557,0,0
+1629443002030,10489,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443002030,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443002033,10486,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,10467,0,0
+1629443004244,8485,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443004244,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443004247,8482,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,8473,0,0
+1629443003040,10532,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443003040,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443003043,10529,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,10518,0,0
+1629443005490,9077,HTTP Request,200,OK,Thread Group 1-15,text,true,,689548,272,27,27,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443005490,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-15,text,true,,349,134,27,27,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443005493,9074,HTTP Request-1,200,OK,Thread Group 1-15,text,true,,689199,138,27,27,https://test.bestviewsreviews.com:443/tvs/,9059,0,0
+1629443004764,9877,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,26,26,https://test.bestviewsreviews.com:443/tvs/,7,0,0
+1629443004764,7,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,26,26,http://test.bestviewsreviews.com/tvs/,7,0,0
+1629443004771,9870,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,26,26,https://test.bestviewsreviews.com:443/tvs/,9858,0,0
+1629443005179,9513,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,26,26,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443005179,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,26,26,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443005182,9510,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,26,26,https://test.bestviewsreviews.com:443/tvs/,9494,0,0
+1629443006489,9375,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,26,26,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443006489,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,26,26,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443006492,9372,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,26,26,https://test.bestviewsreviews.com:443/tvs/,9359,0,0
+1629443004721,11333,HTTP Request,200,OK,Thread Group 1-21,text,true,,689548,272,26,26,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443004721,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-21,text,true,,349,134,26,26,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443004724,11330,HTTP Request-1,200,OK,Thread Group 1-21,text,true,,689199,138,26,26,https://test.bestviewsreviews.com:443/tvs/,11323,0,0
+1629443004745,11374,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,25,25,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443004745,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,25,25,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443004748,11371,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,25,25,https://test.bestviewsreviews.com:443/tvs/,11358,0,0
+1629443004657,11561,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,25,25,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443004657,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,25,25,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443004660,11558,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,25,25,https://test.bestviewsreviews.com:443/tvs/,11548,0,0
+1629443006900,9392,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,25,25,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443006900,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,25,25,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443006902,9390,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,25,25,https://test.bestviewsreviews.com:443/tvs/,9380,0,0
+1629443005900,10403,HTTP Request,200,OK,Thread Group 1-4,text,true,,689548,272,25,25,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443005900,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,349,134,25,25,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443005903,10400,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,689199,138,25,25,https://test.bestviewsreviews.com:443/tvs/,10390,0,0
+1629443007163,9189,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443007163,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443007166,9186,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,9175,0,0
+1629443008204,8820,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443008204,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443008206,8818,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,8809,0,0
+1629443005539,11508,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443005539,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443005542,11505,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,11492,0,0
+1629443008003,9215,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443008003,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443008006,9212,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,9202,0,0
+1629443006702,10725,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443006702,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443006705,10722,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,10706,0,0
+1629443008238,9471,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443008238,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443008241,9468,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,9459,0,0
+1629443008298,9453,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443008298,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443008301,9450,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,9440,0,0
+1629443009761,9754,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443009761,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443009764,9751,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,9741,0,0
+1629443011160,8598,HTTP Request,200,OK,Thread Group 1-29,text,true,,689548,272,24,24,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443011160,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-29,text,true,,349,134,24,24,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443011163,8595,HTTP Request-1,200,OK,Thread Group 1-29,text,true,,689199,138,24,24,https://test.bestviewsreviews.com:443/tvs/,8588,0,0
+1629443011277,9069,HTTP Request,200,OK,Thread Group 1-23,text,true,,689548,272,23,23,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443011277,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-23,text,true,,349,134,23,23,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443011279,9067,HTTP Request-1,200,OK,Thread Group 1-23,text,true,,689199,138,23,23,https://test.bestviewsreviews.com:443/tvs/,9060,0,0
+1629443011522,9018,HTTP Request,200,OK,Thread Group 1-14,text,true,,689548,272,22,22,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443011522,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-14,text,true,,349,134,22,22,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443011525,9015,HTTP Request-1,200,OK,Thread Group 1-14,text,true,,689199,138,22,22,https://test.bestviewsreviews.com:443/tvs/,9004,0,0
+1629443011470,9423,HTTP Request,200,OK,Thread Group 1-3,text,true,,689548,272,21,21,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443011470,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,349,134,21,21,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443011472,9421,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,689199,138,21,21,https://test.bestviewsreviews.com:443/tvs/,9413,0,0
+1629443012730,8743,HTTP Request,200,OK,Thread Group 1-18,text,true,,689548,272,20,20,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443012730,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-18,text,true,,349,134,20,20,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443012733,8740,HTTP Request-1,200,OK,Thread Group 1-18,text,true,,689199,138,20,20,https://test.bestviewsreviews.com:443/tvs/,8733,0,0
+1629443011955,9627,HTTP Request,200,OK,Thread Group 1-19,text,true,,689548,272,19,19,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443011955,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-19,text,true,,349,134,19,19,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443011957,9625,HTTP Request-1,200,OK,Thread Group 1-19,text,true,,689199,138,19,19,https://test.bestviewsreviews.com:443/tvs/,9617,0,0
+1629443012477,9444,HTTP Request,200,OK,Thread Group 1-1,text,true,,689548,272,18,18,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443012477,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,349,134,18,18,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443012480,9441,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,689199,138,18,18,https://test.bestviewsreviews.com:443/tvs/,9434,0,0
+1629443012490,9564,HTTP Request,200,OK,Thread Group 1-5,text,true,,689548,272,17,17,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443012490,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,349,134,17,17,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443012493,9561,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,689199,138,17,17,https://test.bestviewsreviews.com:443/tvs/,9554,0,0
+1629443013573,8527,HTTP Request,200,OK,Thread Group 1-16,text,true,,689548,272,16,16,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443013573,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-16,text,true,,349,134,16,16,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443013576,8524,HTTP Request-1,200,OK,Thread Group 1-16,text,true,,689199,138,16,16,https://test.bestviewsreviews.com:443/tvs/,8514,0,0
+1629443012521,9614,HTTP Request,200,OK,Thread Group 1-2,text,true,,689548,272,15,15,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443012521,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,349,134,15,15,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443012523,9612,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,689199,138,15,15,https://test.bestviewsreviews.com:443/tvs/,9602,0,0
+1629443014643,7599,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,14,14,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443014643,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,14,14,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443014645,7597,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,14,14,https://test.bestviewsreviews.com:443/tvs/,7588,0,0
+1629443014694,8153,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,14,14,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443014694,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,14,14,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443014696,8151,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,14,14,https://test.bestviewsreviews.com:443/tvs/,8142,0,0
+1629443016294,6739,HTTP Request,200,OK,Thread Group 1-28,text,true,,689548,272,14,14,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443016294,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-28,text,true,,349,134,14,14,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443016296,6737,HTTP Request-1,200,OK,Thread Group 1-28,text,true,,689199,138,14,14,https://test.bestviewsreviews.com:443/tvs/,6729,0,0
+1629443017429,5792,HTTP Request,200,OK,Thread Group 1-8,text,true,,689548,272,13,13,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443017429,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-8,text,true,,349,134,13,13,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443017431,5790,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,689199,138,13,13,https://test.bestviewsreviews.com:443/tvs/,5781,0,0
+1629443016354,7198,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,12,12,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443016354,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,12,12,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443016357,7195,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,12,12,https://test.bestviewsreviews.com:443/tvs/,7187,0,0
+1629443015866,7793,HTTP Request,200,OK,Thread Group 1-27,text,true,,689548,272,12,12,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443015866,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-27,text,true,,349,134,12,12,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443015869,7790,HTTP Request-1,200,OK,Thread Group 1-27,text,true,,689199,138,12,12,https://test.bestviewsreviews.com:443/tvs/,7782,0,0
+1629443017220,6487,HTTP Request,200,OK,Thread Group 1-10,text,true,,689548,272,11,11,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443017220,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-10,text,true,,349,134,11,11,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443017223,6484,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,689199,138,11,11,https://test.bestviewsreviews.com:443/tvs/,6476,0,0
+1629443016121,7606,HTTP Request,200,OK,Thread Group 1-12,text,true,,689548,272,10,10,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443016121,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-12,text,true,,349,134,10,10,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443016123,7604,HTTP Request-1,200,OK,Thread Group 1-12,text,true,,689199,138,10,10,https://test.bestviewsreviews.com:443/tvs/,7595,0,0
+1629443017049,6740,HTTP Request,200,OK,Thread Group 1-9,text,true,,689548,272,9,9,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443017049,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-9,text,true,,349,134,9,9,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443017051,6738,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,689199,138,9,9,https://test.bestviewsreviews.com:443/tvs/,6727,0,0
+1629443016220,7773,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,8,8,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443016220,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,8,8,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443016222,7771,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,8,8,https://test.bestviewsreviews.com:443/tvs/,7763,0,0
+1629443017026,7017,HTTP Request,200,OK,Thread Group 1-17,text,true,,689548,272,8,8,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443017026,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-17,text,true,,349,134,8,8,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443017029,7014,HTTP Request-1,200,OK,Thread Group 1-17,text,true,,689199,138,8,8,https://test.bestviewsreviews.com:443/tvs/,7006,0,0
+1629443017711,6371,HTTP Request,200,OK,Thread Group 1-30,text,true,,689548,272,7,7,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443017711,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-30,text,true,,349,134,7,7,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443017713,6369,HTTP Request-1,200,OK,Thread Group 1-30,text,true,,689199,138,7,7,https://test.bestviewsreviews.com:443/tvs/,6362,0,0
+1629443017752,6346,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,6,6,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443017752,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,6,6,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443017755,6343,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,6,6,https://test.bestviewsreviews.com:443/tvs/,6336,0,0
+1629443022243,1951,HTTP Request,200,OK,Thread Group 1-26,text,true,,689548,272,6,6,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443022243,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-26,text,true,,349,134,6,6,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443022245,1949,HTTP Request-1,200,OK,Thread Group 1-26,text,true,,689199,138,6,6,https://test.bestviewsreviews.com:443/tvs/,1940,0,0
+1629443019517,4943,HTTP Request,200,OK,Thread Group 1-13,text,true,,689548,272,5,5,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443019517,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-13,text,true,,349,134,5,5,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443019520,4940,HTTP Request-1,200,OK,Thread Group 1-13,text,true,,689199,138,5,5,https://test.bestviewsreviews.com:443/tvs/,4930,0,0
+1629443023994,871,HTTP Request,200,OK,Thread Group 1-22,text,true,,689548,272,4,4,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443023994,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-22,text,true,,349,134,4,4,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443023996,869,HTTP Request-1,200,OK,Thread Group 1-22,text,true,,689199,138,4,4,https://test.bestviewsreviews.com:443/tvs/,861,0,0
+1629443022848,2593,HTTP Request,200,OK,Thread Group 1-11,text,true,,689548,272,3,3,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443022848,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-11,text,true,,349,134,3,3,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443022851,2590,HTTP Request-1,200,OK,Thread Group 1-11,text,true,,689199,138,3,3,https://test.bestviewsreviews.com:443/tvs/,2584,0,0
+1629443023553,2187,HTTP Request,200,OK,Thread Group 1-7,text,true,,689548,272,2,2,https://test.bestviewsreviews.com:443/tvs/,2,0,0
+1629443023553,2,HTTP Request-0,301,Moved Permanently,Thread Group 1-7,text,true,,349,134,2,2,http://test.bestviewsreviews.com/tvs/,2,0,0
+1629443023556,2184,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,689199,138,2,2,https://test.bestviewsreviews.com:443/tvs/,2167,0,0
+1629443024099,1704,HTTP Request,200,OK,Thread Group 1-20,text,true,,689548,272,1,1,https://test.bestviewsreviews.com:443/tvs/,3,0,0
+1629443024099,3,HTTP Request-0,301,Moved Permanently,Thread Group 1-20,text,true,,349,134,1,1,http://test.bestviewsreviews.com/tvs/,3,0,0
+1629443024102,1701,HTTP Request-1,200,OK,Thread Group 1-20,text,true,,689199,138,1,1,https://test.bestviewsreviews.com:443/tvs/,1695,0,0
